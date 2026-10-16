@@ -4,28 +4,6 @@ A beginner-friendly **Python capstone project** that helps users discover job li
 
 > **Project status:** Working prototype for local, single-user testing. Sample listings are fictional. API access depends on the external provider and internet availability. Automatic background alerts and email notifications are **not** implemented.
 
-## 📸 Application screenshots
-
-We will add **real screenshots from the running application** here after the interface is tested locally.
-
-| Screenshot to capture | What to show |
-| --- | --- |
-| Job Search Dashboard | Search inputs, counts and job cards after loading sample jobs |
-| Job Details | An expanded job listing with its description and save action |
-| Saved & Applications | Saved job with application status and notes |
-| Live API Results (optional) | Real listings retrieved from Remotive, if the API is working |
-
-**How to add screenshots (macOS):**
-
-1. Run the app and open the local Streamlit URL in your browser.
-2. Load sample jobs and arrange the screen as desired.
-3. Press **Command + Shift + 4** and select the area to capture.
-4. Name the images `dashboard.png`, `job-details.png`, `saved-jobs.png` (and optionally `api-results.png`).
-5. Add the images to an `assets/screenshots/` folder in the repository.
-6. Then replace this section with images using Markdown such as `![Job Search Dashboard](assets/screenshots/dashboard.png)`.
-
-We intentionally do not show fabricated interface screenshots.
-
 ## ✨ Features
 
 | Feature | Details |
@@ -239,7 +217,6 @@ The course material will use **progressive LEARN lessons** rather than separate 
 ## 🧩 Planned enhancements
 
 - Test and select a provider with stronger Indian city coverage.
-- Add genuine screenshots after completing local UI testing.
 - Improve dashboard layout and accessibility.
 - Add scheduling and alerts as a separate advanced enhancement.
 - Add import/export only if required by course scope.
